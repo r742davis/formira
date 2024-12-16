@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Build / Coverage
+coverage/
+*.tsbuildinfo
+
+.env*.local
+pnpm-lock.yaml
+
